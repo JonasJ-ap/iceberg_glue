@@ -1,0 +1,86 @@
+2022.12.05 13:55:24 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/jonasjiang/Workspace/Apache_Iceberg_ws/deploy/spark-iceberg/iceberg_glue/.metals/lsp.trace.json or /Users/jonasjiang/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.12.05 13:55:25 INFO  logging to file /Users/jonasjiang/Workspace/Apache_Iceberg_ws/deploy/spark-iceberg/iceberg_glue/.metals/metals.log
+2022.12.05 13:55:25 INFO  Started: Metals version 0.11.9 in workspace '/Users/jonasjiang/Workspace/Apache_Iceberg_ws/deploy/spark-iceberg/iceberg_glue' for client Visual Studio Code 1.73.1.
+2022.12.05 13:55:28 INFO  time: initialize in 3.18s
+2022.12.05 13:55:33 WARN  Build server is not auto-connectable.
+2022.12.05 13:55:33 WARN  no build tool detected in workspace '/Users/jonasjiang/Workspace/Apache_Iceberg_ws/deploy/spark-iceberg/iceberg_glue'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.12.05 13:55:33 WARN  no build target for: /Users/jonasjiang/Workspace/Apache_Iceberg_ws/deploy/spark-iceberg/iceberg_glue/aws_integration_test/apachehttp_test.scala
+Dec 05, 2022 1:55:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2022.12.05 13:55:48 INFO  no build target found for /Users/jonasjiang/Workspace/Apache_Iceberg_ws/deploy/spark-iceberg/iceberg_glue/aws_integration_test/apachehttp_test.scala. Using presentation compiler with project's scala-library version: 3.2.0
+2022.12.05 13:55:50 INFO  time: code lens generation in 16s
+2022.12.05 13:55:50 INFO  time: code lens generation in 16s
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.5.3/scalafmt-core_2.13-3.5.3.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.5.3/scalafmt-core_2.13-3.5.3.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.5.5/scalameta_2.13-4.5.5.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.5.3/scalafmt-config_2.13-3.5.3.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.5.3/scalafmt-sysops_2.13-3.5.3.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.5.3/scalafmt-sysops_2.13-3.5.3.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.5.3/scalafmt-config_2.13-3.5.3.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.5.5/scalameta_2.13-4.5.5.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scalap/2.13.8/scalap-2.13.8.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.5.5/parsers_2.13-4.5.5.pom
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-core_2.13/0.10.0/metaconfig-core_2.13-0.10.0.pom
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_2.13/0.10.0/metaconfig-typesafe-config_2.13-0.10.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.5.5/parsers_2.13-4.5.5.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scalap/2.13.8/scalap-2.13.8.pom
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-core_2.13/0.10.0/metaconfig-core_2.13-0.10.0.pom
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_2.13/0.10.0/metaconfig-typesafe-config_2.13-0.10.0.pom
+Downloading https://repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.8/scala-compiler-2.13.8.pom
+Downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.5.0/scala-collection-compat_2.13-2.5.0.pom
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-pprint_2.13/0.10.0/metaconfig-pprint_2.13-0.10.0.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.5.5/trees_2.13-4.5.5.pom
+Downloaded https://repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.5.0/scala-collection-compat_2.13-2.5.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.5.5/trees_2.13-4.5.5.pom
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.8/scala-compiler-2.13.8.pom
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-pprint_2.13/0.10.0/metaconfig-pprint_2.13-0.10.0.pom
+Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.5.5/common_2.13-4.5.5.pom
+Downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/5.9.0/jna-5.9.0.pom
+Downloaded https://repo1.maven.org/maven2/net/java/dev/jna/jna/5.9.0/jna-5.9.0.pom
+Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.5.5/common_2.13-4.5.5.pom
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/geny_2.13/0.6.5/geny_2.13-0.6.5.pom
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.13/0.2.7/sourcecode_2.13-0.2.7.pom
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/geny_2.13/0.6.5/geny_2.13-0.6.5.pom
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.13/0.2.7/sourcecode_2.13-0.2.7.pom
+Downloading https://repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.jar
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.13/0.2.7/sourcecode_2.13-0.2.7.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.5.3/scalafmt-config_2.13-3.5.3.jar
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_2.13/0.10.0/metaconfig-typesafe-config_2.13-0.10.0.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.5.3/scalafmt-core_2.13-3.5.3.jar
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.8/scala-compiler-2.13.8.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-config_2.13/3.5.3/scalafmt-config_2.13-3.5.3.jar
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scalap/2.13.8/scalap-2.13.8.jar
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-typesafe-config_2.13/0.10.0/metaconfig-typesafe-config_2.13-0.10.0.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.5.5/trees_2.13-4.5.5.jar
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/sourcecode_2.13/0.2.7/sourcecode_2.13-0.2.7.jar
+Downloading https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.8/scala-reflect-2.13.8.jar
+2022.12.05 13:57:35 WARN  no build target for: /Users/jonasjiang/Workspace/Apache_Iceberg_ws/deploy/spark-iceberg/iceberg_glue/aws_integration_test/apachehttp_test.scala
+Downloaded https://repo1.maven.org/maven2/com/typesafe/config/1.4.1/config-1.4.1.jar
+Downloading https://repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.5.0/scala-collection-compat_2.13-2.5.0.jar
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.5.0/scala-collection-compat_2.13-2.5.0.jar
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scalap/2.13.8/scalap-2.13.8.jar
+Downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/5.9.0/jna-5.9.0.jar
+Downloading https://repo1.maven.org/maven2/com/lihaoyi/geny_2.13/0.6.5/geny_2.13-0.6.5.jar
+Downloaded https://repo1.maven.org/maven2/com/lihaoyi/geny_2.13/0.6.5/geny_2.13-0.6.5.jar
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-core_2.13/0.10.0/metaconfig-core_2.13-0.10.0.jar
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.8/scala-reflect-2.13.8.jar
+Downloading https://repo1.maven.org/maven2/com/geirsson/metaconfig-pprint_2.13/0.10.0/metaconfig-pprint_2.13-0.10.0.jar
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-pprint_2.13/0.10.0/metaconfig-pprint_2.13-0.10.0.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.5.5/common_2.13-4.5.5.jar
+Downloaded https://repo1.maven.org/maven2/com/geirsson/metaconfig-core_2.13/0.10.0/metaconfig-core_2.13-0.10.0.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.5.3/scalafmt-sysops_2.13-3.5.3.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-sysops_2.13/3.5.3/scalafmt-sysops_2.13-3.5.3.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.5.5/scalameta_2.13-4.5.5.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/common_2.13/4.5.5/common_2.13-4.5.5.jar
+Downloading https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.5.5/parsers_2.13-4.5.5.jar
+Downloaded https://repo1.maven.org/maven2/net/java/dev/jna/jna/5.9.0/jna-5.9.0.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalafmt-core_2.13/3.5.3/scalafmt-core_2.13-3.5.3.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/parsers_2.13/4.5.5/parsers_2.13-4.5.5.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/scalameta_2.13/4.5.5/scalameta_2.13-4.5.5.jar
+Downloaded https://repo1.maven.org/maven2/org/scalameta/trees_2.13/4.5.5/trees_2.13-4.5.5.jar
+Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.8/scala-compiler-2.13.8.jar
+Dec 05, 2022 1:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 80
+2022.12.05 13:57:43 WARN  no build target for: /Users/jonasjiang/Workspace/Apache_Iceberg_ws/deploy/spark-iceberg/iceberg_glue/aws_integration_test/apachehttp_test.scala

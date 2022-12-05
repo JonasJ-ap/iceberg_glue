@@ -11,7 +11,7 @@ import org.apache.iceberg.spark.actions.SparkActions
 import scala.jdk.CollectionConverters._
 
 object GlueApp {
-    def main(sysArgs: Array[String]) {
+    def main(sysArgs: Array[String]): Unit = {
         val sparkContext: SparkContext = new SparkContext()
         val spark: SparkSession = SparkSession.builder.
           config("spark.sql.catalog.demo", "org.apache.iceberg.spark.SparkCatalog").
