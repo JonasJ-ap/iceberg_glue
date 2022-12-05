@@ -84,3 +84,10 @@ Downloaded https://repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.8/s
 Dec 05, 2022 1:57:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 WARNING: Unmatched cancel notification for request id 80
 2022.12.05 13:57:43 WARN  no build target for: /Users/jonasjiang/Workspace/Apache_Iceberg_ws/deploy/spark-iceberg/iceberg_glue/aws_integration_test/apachehttp_test.scala
+2022.12.05 14:01:35 WARN  no build target for: /Users/jonasjiang/Workspace/Apache_Iceberg_ws/deploy/spark-iceberg/iceberg_glue/aws_integration_test/test_s3_tags.scala
+2022.12.05 14:01:44 WARN  no build target for: /Users/jonasjiang/Workspace/Apache_Iceberg_ws/deploy/spark-iceberg/iceberg_glue/aws_integration_test/urlhttp_test.scala
+2022.12.05 14:01:51 WARN  no build target for: /Users/jonasjiang/Workspace/Apache_Iceberg_ws/deploy/spark-iceberg/iceberg_glue/aws_integration_test/urlhttp_test.scala
+2022.12.05 14:02:00 WARN  no build target for: /Users/jonasjiang/Workspace/Apache_Iceberg_ws/deploy/spark-iceberg/iceberg_glue/aws_integration_test/test_s3_tags.scala
+2022.12.05 14:02:02 WARN  no build target for: /Users/jonasjiang/Workspace/Apache_Iceberg_ws/deploy/spark-iceberg/iceberg_glue/aws_integration_test/apachehttp_test.scala
+2022.12.05 14:02:08 WARN  no build target for: /Users/jonasjiang/Workspace/Apache_Iceberg_ws/deploy/spark-iceberg/iceberg_glue/aws_integration_test/apachehttp_test.scala
+2022.12.05 14:02:08 WARN  no build target for: /Users/jonasjiang/Workspace/Apache_Iceberg_ws/deploy/spark-iceberg/iceberg_glue/aws_integration_test/apachehttp_test.scala
