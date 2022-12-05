@@ -1,0 +1,40 @@
+{
+  "name" : "apachehttp_test",
+  "description" : "",
+  "role" : "arn:aws:iam::481640105715:role/jonasjiang_gluecatalog",
+  "executionProperty" : {
+    "maxConcurrentRuns" : 1
+  },
+  "command" : {
+    "name" : "glueetl",
+    "scriptLocation" : "s3://aws-glue-assets-481640105715-us-east-1/scripts/apachehttp_test.scala",
+    "pythonVersion" : "3"
+  },
+  "defaultArguments" : {
+    "--class" : "GlueApp",
+    "--enable-metrics" : "true",
+    "--enable-spark-ui" : "true",
+    "--spark-event-logs-path" : "s3://aws-glue-assets-481640105715-us-east-1/sparkHistoryLogs/",
+    "--enable-job-insights" : "true",
+    "--enable-glue-datacatalog" : "true",
+    "--enable-continuous-cloudwatch-log" : "true",
+    "--job-bookmark-option" : "job-bookmark-enable",
+    "--job-language" : "scala",
+    "--TempDir" : "s3://aws-glue-assets-481640105715-us-east-1/temporary/",
+    "--extra-jars" : "s3://gluetestjonas/jars/iceberg-spark-runtime-3.1_master.jar,s3://gluetestjonas/jars/bundle-2.17.153.jar,s3://gluetestjonas/jars/url-connection-client-2.17.153.jar"
+  },
+  "maxRetries" : 0,
+  "allocatedCapacity" : 10,
+  "timeout" : 2880,
+  "maxCapacity" : 10.0,
+  "glueVersion" : "3.0",
+  "numberOfWorkers" : 10,
+  "workerType" : "G.1X",
+  "executionClass" : "STANDARD",
+  "sourceControlDetails" : {
+    "provider" : "GITHUB",
+    "repository" : "iceberg_glue",
+    "branch" : "main",
+    "folder" : "aws_integration_test"
+  }
+}
